@@ -132,10 +132,10 @@ dmypy.json
 .idea/
 
 # data
-/data/
+#/data/
 
 # model
-model/
+#model/
 
 # local config
-config_local.py
+#config_local.py
